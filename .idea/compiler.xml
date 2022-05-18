@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="gulimail-order" />
+        <module name="gulimail-product" />
+        <module name="gulimail-ware" />
+        <module name="gulimail-coupon" />
+        <module name="gulimail-member" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="gulimail" target="1.8" />
+      <module name="gulimail-coupon" target="1.8" />
+      <module name="gulimail-member" target="1.8" />
+      <module name="gulimail-order" target="1.8" />
+      <module name="gulimail-product" target="1.8" />
+      <module name="gulimail-ware" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
