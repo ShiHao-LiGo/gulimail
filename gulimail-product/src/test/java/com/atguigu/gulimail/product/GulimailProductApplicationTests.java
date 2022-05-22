@@ -2,7 +2,8 @@ package com.atguigu.gulimail.product;
 
 import com.atguigu.gulimail.product.entity.BrandEntity;
 import com.atguigu.gulimail.product.service.BrandService;
-import org.junit.jupiter.api.Test;
+
+import org.junit.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.context.annotation.Lazy;

@@ -3,6 +3,7 @@ package com.atguigu.gulimail;
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 
 /**
  * 整合mybatisplus
@@ -15,6 +16,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  *          1)使用@MapperScan
  *          2)告诉mybatis-plus，sql映射文件位置
  */
+@EnableDiscoveryClient
 @MapperScan("com.atguigu.gulimail.product.dao")
 @SpringBootApplication
 public class GulimailProductApplication {
