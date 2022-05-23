@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/gulimail.iml" filepath="$PROJECT_DIR$/gulimail.iml" />
       <module fileurl="file://$PROJECT_DIR$/gulimail-common/gulimail-common.iml" filepath="$PROJECT_DIR$/gulimail-common/gulimail-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/gulimail-coupon/gulimail-coupon.iml" filepath="$PROJECT_DIR$/gulimail-coupon/gulimail-coupon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gulimail-gateway/gulimail-gateway.iml" filepath="$PROJECT_DIR$/gulimail-gateway/gulimail-gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/gulimail-member/gulimail-member.iml" filepath="$PROJECT_DIR$/gulimail-member/gulimail-member.iml" />
       <module fileurl="file://$PROJECT_DIR$/gulimail-order/gulimail-order.iml" filepath="$PROJECT_DIR$/gulimail-order/gulimail-order.iml" />
       <module fileurl="file://$PROJECT_DIR$/gulimail-product/gulimail-product.iml" filepath="$PROJECT_DIR$/gulimail-product/gulimail-product.iml" />

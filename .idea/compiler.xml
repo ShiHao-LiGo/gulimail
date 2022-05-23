@@ -7,13 +7,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="renren-fast" />
+        <module name="gulimail-member" />
         <module name="renren-generator" />
         <module name="gulimail-common" />
         <module name="gulimail-product" />
         <module name="gulimail-coupon" />
+        <module name="gulimail-gateway" />
         <module name="gulimail-order" />
-        <module name="gulimail-member" />
+        <module name="renren-fast" />
         <module name="gulimail-ware" />
       </profile>
     </annotationProcessing>
@@ -21,6 +22,7 @@
       <module name="gulimail" target="1.8" />
       <module name="gulimail-common" target="1.8" />
       <module name="gulimail-coupon" target="1.8" />
+      <module name="gulimail-gateway" target="1.8" />
       <module name="gulimail-member" target="1.8" />
       <module name="gulimail-order" target="1.8" />
       <module name="gulimail-product" target="1.8" />
